@@ -1,0 +1,13 @@
+.color{
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    border: 0;
+    background-color: #6399de;
+}
+
+.color:hover{
+    background-color: #2660ab;
+}

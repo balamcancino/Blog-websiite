@@ -1,0 +1,25 @@
+#cards_todo{
+    width: 30%;
+    background-color: #b5cdd6;
+    border-radius: 5px;
+    display: flex;
+    margin :20px 0;
+    flex-wrap: wrap;
+    justify-content: space-between;}
+
+#text{
+    margin-left: 20px;
+    width: 100%;
+    margin-top: 5px;
+}
+
+#buttons_card{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#buttons_card div{
+    margin-bottom: 15px;
+    width: 30%;
+}
